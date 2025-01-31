@@ -1,0 +1,32 @@
+Fantasy Checks:
+
+Normal Account - CrushingAI
+user: dilandesilva1999@gmail.com
+password: Cricket.1707
+
+Check if the Sutherland, Stoinis & Webster are playing
+- If all playing, do nothing
+- If Webster not playing & both Stoinis & Sutherland playing then switch Webster and Stoinis (into flex)
+
+AI Account - CrushingHumans
+user: dilandesilva1111@gmail.com
+password: Cricket.1707
+
+Check if the Sutherland, Siddle, Brown & Harper are playing
+- If all playing, do nothing
+- If all but Harper, do nothing
+- If all but Brown, bring in Stoinis (undo trade)
+- If all but Siddle, bring in Stoinis 
+	(1. swap Siddle and Warren
+	 2. Undo trade and bring in Stoinis
+	 3. Swap Stoinis and Warren (flex))
+- If all but Sunderland, bring in Stoinis & captain Siddle
+
+- If Harper & someone not playing, do nothing to Harper and switch out person to Stoinis
+- If Siddle & Brown not playing, replace Brown with Stoinis
+- If Siddle & Sutherland not playing, replace Siddle with Stoinis and make Brown captain
+- If Sutherland & Brown not playing, replace Brown with Stoinis and make Siddle captain  
+
+- If more than 2 players not playing priorities keeping Renegades players (even bring back Sandhu)
+
+Captaincy Order: Sutherland, Siddle, Brown, Stoinis, Harper

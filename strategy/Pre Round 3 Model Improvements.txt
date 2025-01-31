@@ -1,0 +1,4 @@
+2. Power Surge
+3. Batting Position
+
+b. removal of previous season variables (less bias for new/ international/ prior season mapped)
