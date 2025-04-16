@@ -44,6 +44,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - AI Captain: Beau Webster (132 points - 17.9%)
 
 - Selected Team
+
 ![](images/Gameweek%20Performance/Round%201%20-%20Team.png)
 
 - Match Up Result
