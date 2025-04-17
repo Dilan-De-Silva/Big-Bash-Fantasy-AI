@@ -43,11 +43,11 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Round Rank: 27350 (20.15%)
 - AI Captain: Beau Webster (132 points - 17.9%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%201%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%201%20-%20Match%20Up.png)
 
 
@@ -64,95 +64,109 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Round Rank: 398 (0.70%)
 - AI Captain: Matt Short (230 points - 20.05%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%202%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%202%20-%20Match%20Up.png)
 
 ### <ins>Round 3</ins>
 **AI Team Round Trades**
 
-| Traded In  | Fantasy Points | Traded Out |
-| :---       |     :---:      | :---       |
-| L.Pope     | 156            | J.Clarke   |
-| H.Thornton | 106            | B.Couch    |
-| P.Walter   | 44             | C.Lynn     |
+| Traded In  | Fantasy Points | Traded Out    |
+| :---       |     :---:      | :---          |
+| J.Edwards  | 24             | J.Behrendorff |
+| H.Kerr     | 104            | H.Cartwright  |
+| M.Stoinis  | 51             | B.Webster     |
 
 - Round Score: 818
 - Round Rank: 15821 (27.91%)
 - AI Captain: Jack Edwards (24 points - 2.93%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%203%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%203%20-%20Match%20Up.png)
 
 ### <ins>Round 4</ins>
 **AI Team Round Trades**
 
-| Traded In  | Fantasy Points | Traded Out |
-| :---       |     :---:      | :---       |
-| L.Pope     | 156            | J.Clarke   |
-| H.Thornton | 106            | B.Couch    |
-| P.Walter   | 44             | C.Lynn     |
+| Traded In    | Fantasy Points | Traded Out |
+| :---         |     :---:      | :---       |
+| J.Brown      | 128            | T.Curran   |
+| F.O'Niell    | 16             | M.Short    |
+| W.Sutherland | 66             | P.Walter   |
 
 - Round Score: 765
 - Round Rank: 8872 (15.65%)
 - AI Captain: Jamie Overton (142 points - 18.56%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%204%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%204%20-%20Match%20Up.png)
 
 ### <ins>Round 5</ins>
 **AI Team Round Trades**
 
-| Traded In  | Fantasy Points | Traded Out |
-| :---       |     :---:      | :---       |
-| L.Pope     | 156            | J.Clarke   |
-| H.Thornton | 106            | B.Couch    |
-| P.Walter   | 44             | C.Lynn     |
+| Traded In  | Fantasy Points | Traded Out  |
+| :---       |     :---:      | :---        |
+| W.Agar     | 4              | B.Dhawshuis |
+| S.Billings | 13             | H.Kerr      |
+| L.Ferguson | 8              | S.Konstas   |
+| *D.Sams*   | *15*           | *F.O'Niell* |
 
 - Round Score: 364
 - Round Rank: 29750 (52.47%)
 - AI Captain: Henry Thornton (54 points - 14.83%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%205%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%205%20-%20Match%20Up.png)
 
 ### <ins>Round 6</ins>
-- Trades In: 
-- Trades Out:
+**AI Team Round Trades**
+
+| Traded In  | Fantasy Points | Traded Out   |
+| :---       |     :---:      | :---         |
+| C.Green    | 10             | L.Pope       |
+| S.Johnson  | 81             | J.Overton    |
+| G.Sandhu   | 19             | D.Sams       |
+| *D.Warner* | *70*           | *H.Thornton* |
+
 - Round Score: 666
 - Round Rank: 7221 (12.74%)
 - AI Captain: Wes Agar (48 points - 7.21%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%206%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%206%20-%20Match%20Up.png)
 
 ### <ins>Round 7</ins>
-- Trades In: 
-- Trades Out:
+**AI Team Round Trades**
+
+| Traded In   | Fantasy Points | Traded Out   |
+| :---        |     :---:      | :---         |
+| P.Hatzoglu  | 14             | L.Ferguson   |
+| C.Jordan    | 48             | G.Sandhu     |
+| B.McDermott | 0              | M.Stoinis    |
+
 - Round Score: 533
 - Round Rank: 37537 (66.21%)
 - AI Captain: Will Sunderland (90 points - 16.89%)
 
-- Selected Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%207%20-%20Team.png)
 
@@ -160,13 +174,19 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 ![](images/Gameweek%20Performance/Round%207%20-%20Match%20Up.png)
 
 ### <ins>Round 8</ins>
-- Trades In: 
-- Trades Out:
+**AI Team Round Trades**
+
+| Traded In  | Fantasy Points | Traded Out   |
+| :---       |     :---:      | :---         |
+| N.Ellis    | 143            | W.Agar       |
+| M.Owen     | 219            | G.McDermott  |
+| B.Stanlake | 13             | P.Siddle     |
+
 - Round Score: 802
 - Round Rank: 16789 (29.61%)
 - AI Captain: Peter Hatzoglou (22 points - 2.74%)
 
-- Select Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%208%20-%20Team.png)
 
@@ -174,17 +194,24 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 ![](images/Gameweek%20Performance/Round%208%20-%20Match%20Up.png)
 
 ### <ins>Round 9</ins>
-- Trades In: 
-- Trades Out:
+
+**AI Team Round Trades**
+
+| Traded In  | Fantasy Points | Traded Out   |
+| :---       |     :---:      | :---         |
+| J.Clarke   | 0              | C.Green      |
+| M.Neser    | 42             | B.Stanlake   |
+| T.Rogers   | 30             | D.Warner     |
+
 - Round Score: 654
 - Round Rank: 22340 (39.40%)
 - AI Captain: Nathan Ellis (178 points - 27.22%)
 
-- Select Team
+**Selected Team**
 
 ![](images/Gameweek%20Performance/Round%209%20-%20Team.png)
 
-- Match Up Result
+**Match Up Result**
 ![](images/Gameweek%20Performance/Round%209%20-%20Match%20Up.png)
 
 ## AI Team Next Season Future Improvements
