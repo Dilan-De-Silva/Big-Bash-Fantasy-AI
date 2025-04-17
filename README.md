@@ -38,7 +38,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 
 ## Round by Round Tournament Overview
 
-### _Round 1</ins>
+### <ins>Round 1</ins>
 - Round Score: 736
 - Round Rank: 27350 (20.15%)
 - AI Captain: Beau Webster (132 points - 17.9%)
