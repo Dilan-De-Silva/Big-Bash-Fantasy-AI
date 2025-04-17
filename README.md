@@ -38,7 +38,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 
 ## Round by Round Tournament Overview
 
-### _Round 1_
+### _Round 1</ins>
 - Round Score: 736
 - Round Rank: 27350 (20.15%)
 - AI Captain: Beau Webster (132 points - 17.9%)
@@ -51,7 +51,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 ![](images/Gameweek%20Performance/Round%201%20-%20Match%20Up.png)
 
 
-### _Round 2_
+### <ins>Round 2</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 1147
@@ -65,7 +65,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%202%20-%20Match%20Up.png)
 
-### Round 3
+### <ins>Round 3</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 818
@@ -79,7 +79,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%203%20-%20Match%20Up.png)
 
-### Round 4
+### <ins>Round 4</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 765
@@ -93,7 +93,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%204%20-%20Match%20Up.png)
 
-### Round 5
+### <ins>Round 5</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 364
@@ -107,7 +107,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%205%20-%20Match%20Up.png)
 
-### Round 6
+### <ins>Round 6</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 666
@@ -121,7 +121,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%206%20-%20Match%20Up.png)
 
-### Round 7
+### <ins>Round 7</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 533
@@ -135,7 +135,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%207%20-%20Match%20Up.png)
 
-### Round 8
+### <ins>Round 8</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 802
@@ -149,7 +149,7 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Match Up Result
 ![](images/Gameweek%20Performance/Round%208%20-%20Match%20Up.png)
 
-### Round 9
+### <ins>Round 9</ins>
 - Trades In: 
 - Trades Out:
 - Round Score: 654
