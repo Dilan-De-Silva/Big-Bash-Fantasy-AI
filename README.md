@@ -55,7 +55,6 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - AI Trades
 
 | Traded In  | Fantasy Points | Traded Out |
-|------------|----------------|------------|
 | :---       |     :---:      |       ---: |
 | L.Pope     | 156            | J.Clarke   |
 | H.Thornton | 106            | B.Couch    |
