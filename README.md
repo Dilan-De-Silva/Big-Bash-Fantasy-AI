@@ -52,10 +52,16 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 
 
 ### <ins>Round 2</ins>
+- AI Trades
+| Traded In | Fantasy Points | Traded Out |
+| :---         |     :---:      |          ---: |
+| L.Pope   | 156     | J.Clarke    |
+| H.Thornton     | 106       | B.Couch      |
+| P.Walter     | 44       | C.Lynn      |
 - Trades In: 
-1. L.Pope (156)
-2. H.Thornton (106)
-3. P.Walter (44)
+1. L.Pope (156 points)
+2. H.Thornton (106 points)
+3. P.Walter (44 points)
 
 - Trades Out:
 1. C.Lynn 
