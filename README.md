@@ -52,23 +52,13 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 
 
 ### <ins>Round 2</ins>
-- AI Trades
+**AI Team Round Trades**
 
 | Traded In  | Fantasy Points | Traded Out |
-| :---       |     :---:      |       ---: |
+| :---       |     :---:      | :---       |
 | L.Pope     | 156            | J.Clarke   |
 | H.Thornton | 106            | B.Couch    |
 | P.Walter   | 44             | C.Lynn     |
-
-- Trades In: 
-1. L.Pope (156 points)
-2. H.Thornton (106 points)
-3. P.Walter (44 points)
-
-- Trades Out:
-1. C.Lynn 
-2. B.Couch
-3. J.Clarke
 
 - Round Score: 1147
 - Round Rank: 398 (0.70%)
@@ -82,8 +72,14 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 ![](images/Gameweek%20Performance/Round%202%20-%20Match%20Up.png)
 
 ### <ins>Round 3</ins>
-- Trades In: 
-- Trades Out:
+**AI Team Round Trades**
+
+| Traded In  | Fantasy Points | Traded Out |
+| :---       |     :---:      | :---       |
+| L.Pope     | 156            | J.Clarke   |
+| H.Thornton | 106            | B.Couch    |
+| P.Walter   | 44             | C.Lynn     |
+
 - Round Score: 818
 - Round Rank: 15821 (27.91%)
 - AI Captain: Jack Edwards (24 points - 2.93%)
@@ -96,8 +92,14 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 ![](images/Gameweek%20Performance/Round%203%20-%20Match%20Up.png)
 
 ### <ins>Round 4</ins>
-- Trades In: 
-- Trades Out:
+**AI Team Round Trades**
+
+| Traded In  | Fantasy Points | Traded Out |
+| :---       |     :---:      | :---       |
+| L.Pope     | 156            | J.Clarke   |
+| H.Thornton | 106            | B.Couch    |
+| P.Walter   | 44             | C.Lynn     |
+
 - Round Score: 765
 - Round Rank: 8872 (15.65%)
 - AI Captain: Jamie Overton (142 points - 18.56%)
@@ -110,8 +112,14 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 ![](images/Gameweek%20Performance/Round%204%20-%20Match%20Up.png)
 
 ### <ins>Round 5</ins>
-- Trades In: 
-- Trades Out:
+**AI Team Round Trades**
+
+| Traded In  | Fantasy Points | Traded Out |
+| :---       |     :---:      | :---       |
+| L.Pope     | 156            | J.Clarke   |
+| H.Thornton | 106            | B.Couch    |
+| P.Walter   | 44             | C.Lynn     |
+
 - Round Score: 364
 - Round Rank: 29750 (52.47%)
 - AI Captain: Henry Thornton (54 points - 14.83%)
