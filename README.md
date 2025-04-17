@@ -53,7 +53,15 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 
 ### <ins>Round 2</ins>
 - Trades In: 
+1. L.Pope (156)
+2. H.Thornton (106)
+3. P.Walter (44)
+
 - Trades Out:
+1. C.Lynn 
+2. B.Couch
+3. J.Clarke
+
 - Round Score: 1147
 - Round Rank: 398 (0.70%)
 - AI Captain: Matt Short (230 points - 20.05%)
