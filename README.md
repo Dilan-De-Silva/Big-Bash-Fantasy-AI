@@ -1,5 +1,4 @@
-![](images/readme/Supercoach_BBL.webp)
-![](images/readme/bbl.jpg)
+![](images/readme/Supercoach%20BBL.jpg) ![](images/readme/bbl.jpg)
 
 # Big-Bash-Fantasy-AI
 
