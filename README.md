@@ -10,6 +10,8 @@ This is my project repository for my Big Bash AI Fantasy Team first season.
 - Overall Rank: 11398 - 20.15%
 - Best Round Rank: 398 - 0.007% (Round 2)
 
+![](images/Gameweek%20Performance/Final%20Summary.png)
+
 ## AI Team Build
 ### Data Collection & Manipulation
 - Extracted ball by ball BBL data from Cricsheet (https://cricsheet.org/downloads/) for each game in BBL01 to BBL13 which was stored in a single CSV file. Special thank you and shout out to Stephen Rushe of Cricsheet for creating this amazing dataset, which I have leveraged primarily for this project!
