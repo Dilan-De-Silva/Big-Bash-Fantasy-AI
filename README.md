@@ -1,5 +1,4 @@
 ![](images/readme/Big%20bash.png)
-# Big-Bash-Fantasy-AI
 
 ## Welcome
 This is my project repository for my first iteration of my Big Bash League (BBL) AI Fantasy Team. By leveraging the ball by ball data of each match from the previous ten BBL seasons, I created two machine learning models and an bespoke optimisation process to select my initial 12 player squad prior to the start of the tournament and to identify the optimal player trades for each of the 9 rounds during the season.
